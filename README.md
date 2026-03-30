@@ -62,16 +62,14 @@ Mi mayor fortaleza no es solo escribir código, sino entender sistemas complejos
 
 Durante los últimos 5 años, mi enfoque ha sido la estabilidad y la innovación incremental. *Estas métricas se actualizan automáticamente según mi actividad pública.*
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/ness-e?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FCaracas" alt="Metrics" width="100%" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ness-e">
-    <img src="https://github-readme-stats.vercel.app/api?username=ness-e&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Eros en GitHub" width="48%" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ness-e&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Eros" width="48%" />
   </a>
   <a href="https://github.com/ness-e">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ness-e&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Más Usados" width="40%" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ness-e&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Más Usados" width="40%" />
   </a>
 </p>
 
