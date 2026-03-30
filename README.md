@@ -62,7 +62,14 @@ Mi mayor fortaleza no es solo escribir código, sino entender sistemas complejos
 
 Durante los últimos 5 años, mi enfoque ha sido la estabilidad y la innovación incremental. *Estas métricas se actualizan automáticamente según mi actividad pública.*
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/ness-e?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FCaracas" alt="GitHub Metrics" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ness-e&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ness-e&layout=compact&theme=algolia" width="40%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ness-e">
