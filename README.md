@@ -19,7 +19,7 @@ Ingeniero de software especializado en la intersección de **sistemas legacy y a
 En lugar de listas repetitivas, aquí tienes mi ecosistema tecnológico clasificado por impacto:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,nestjs,typescript,react,postgres,prisma,php,tailwind,cordova,docker,figma" alt="Mi Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,nestjs,php,postgres,prisma,tailwind,cordova,docker" alt="Mi Stack Tecnológico" />
 </p>
 
 | Dominio | Capacidades Clave |
