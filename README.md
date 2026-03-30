@@ -1,6 +1,6 @@
 # Hi there! I'm Eros 👋
 
-### 🚀 Senior Product Engineer | Hybrid Systems Expert | AI Implementer
+## Full-Stack Developer | Product Engineer | Systems Architect
 
 <p align="left">
   <img src="https://img.shields.io/badge/Experience-5+%20Years-007ACC?style=flat&logo=codeforces&logoColor=white" />
