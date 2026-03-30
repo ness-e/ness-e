@@ -1,4 +1,4 @@
-# ¡Hola! Soy Eros 👋
+# Hi there! I'm Eros 👋
 
 ### 🚀 Senior Product Engineer | Hybrid Systems Expert | AI Implementer
 
@@ -10,43 +10,43 @@
 
 ---
 
-Ingeniero de software especializado en la intersección de **sistemas legacy y arquitecturas modernas**. Mi fuerte es el **Diagnóstico y Resolución de Problemas (Debugging)** en entornos críticos, desde software de escritorio y apps híbridas hasta implementaciones de IA y gestión de infraestructura cloud.
+Software Engineer specialized in the intersection of **legacy systems and modern architectures**. My core strength lies in **Advanced Debugging & Troubleshooting** within critical environments—from desktop software and hybrid apps to AI implementations and cloud infrastructure management.
 
 ---
 
-## 🛠️ Expertise Técnico y Dominios
+## 🛠️ Technical Expertise & Domains
 
-En lugar de listas repetitivas, aquí tienes mi ecosistema tecnológico clasificado por impacto:
+A curated view of my technological ecosystem classified by impact:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,nextjs,nodejs,nestjs,php,postgres,prisma,tailwind,docker,react" alt="Mi Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,nextjs,nodejs,nestjs,php,postgres,prisma,tailwind,docker,react" alt="My Tech Stack" />
 </p>
 
-| Dominio | Capacidades Clave |
+| Domain | Key Capabilities |
 | :--- | :--- |
 | **Modern Stack** | **Next.js, Node.js, NestJS**, Prisma ORM, PostgreSQL, TypeScript. |
-| **Hybrid & Legacy** | **PHP, VB6**, Integraciones Web-to-Desktop, Cordova Mobile. |
-| **IA & Data** | Agentes Autónomos, **LLMs**, Bases de Datos Vectoriales, RAG. |
-| **DevOps & Admin** | **Debugging remoto (Android/Chrome)**, CPanel, Apache, Dominios. |
-| **UI/UX Solution** | MaterializeCSS, Diseño de SaaS internos para flujos de trabajo. |
+| **Hybrid & Legacy** | **PHP, VB6**, Web-to-Desktop Integrations, Cordova Mobile. |
+| **AI & Data** | Autonomous Agents, **LLMs**, Vector Databases, RAG Workflows. |
+| **DevOps & Admin** | **Remote Debugging (Android/Chrome)**, CPanel, Apache, Domain Mgmt. |
+| **UI/UX Solutions** | MaterializeCSS, Internal SaaS Design for workflow optimization. |
 
 ---
 
-## 🧠 Valor Agregado: "The Troubleshooter"
+## 🧠 Value Proposition: "The Troubleshooter"
 
-Mi enfoque no es solo escribir código, sino optimizar sistemas complejos:
+My focus goes beyond writing code; I optimize complex systems to ensure business continuity:
 
-* **Modernización Crítica:** Refactorizo lógica legacy (**VB6/PHP**) hacia interfaces modernas y reactivas sin interrumpir la continuidad del negocio.
-* **Debugging de Alto Nivel:** Diagnóstico de cuellos de botella en entornos multiplataforma (Escritorio, Web y Móvil).
-* **Ingeniería de Soluciones:** Creación de herramientas internas (SaaS) que eliminan fricciones operativas y cuellos de botella técnicos.
-* **Liderazgo y Mentoría:** Guío a nuevos talentos estableciendo estándares de calidad y mejores prácticas de ingeniería.
-* **Estrategia de IA:** Implementación de modelos de lenguaje para automatizar procesos internos y mejorar productos existentes.
+* **Critical Modernization:** Refactoring legacy logic (**VB6/PHP**) into modern, reactive interfaces without disrupting operations.
+* **High-Level Debugging:** Diagnosing and resolving bottlenecks across multi-platform environments (Desktop, Web, and Mobile).
+* **Solutions Engineering:** Designing and deploying internal tools (SaaS) to eliminate operational friction and technical debt.
+* **Technical Leadership:** Mentoring upcoming talent while establishing high-quality engineering standards and best practices.
+* **AI Strategy:** Implementing Large Language Models to automate internal processes and enhance existing product capabilities.
 
 ---
 
-## 🌐 Conectemos
+## 🌐 Let's Connect
 
-¿Buscas a alguien que domine el código del pasado para construir el futuro con IA? **Conversemos.**
+Looking for someone who masters the code of the past to build the AI-driven future? **Let's talk.**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eros-nessy/" target="_blank">
