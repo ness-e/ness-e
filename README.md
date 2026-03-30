@@ -31,7 +31,6 @@ Ingeniero de software con más de **5 años de experiencia** resolviendo desafí
 
 Mi perfil combina la robustez de los sistemas tradicionales con la agilidad de las nuevas tecnologías.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,nestjs,php,postgres,prisma,tailwind,cordova,docker" alt="Mi Stack Tecnológico" />
