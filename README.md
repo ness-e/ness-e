@@ -79,6 +79,11 @@ Looking for someone who masters the code of the past to build the AI-driven futu
   </a>
 </p>
 
+<p align="center">
+  <small><i>This profile is updated periodically. Built with ☕, Smoke, and Deep Debugging.</i></small><br>
+  <img src="https://img.shields.io/badge/Last_Updated-March_2026-brightgreen?style=flat-square" />
+</p>
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ness-e&color=007ACC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
