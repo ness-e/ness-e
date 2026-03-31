@@ -18,7 +18,7 @@ Software Engineer specialized in the intersection of **legacy systems and modern
   <img src="https://skillicons.dev/icons?i=js,typescript,nextjs,nodejs,nestjs,php,postgres,prisma,tailwind,docker,react" alt="My Tech Stack" />
 </p>
 
-<p align="center">
+<div align="center">
 
 | Domain | Key Capabilities |
 | :--- | :--- |
@@ -27,8 +27,8 @@ Software Engineer specialized in the intersection of **legacy systems and modern
 | **AI & Data** | Autonomous Agents, **LLMs**, Vector Databases, RAG Workflows. |
 | **DevOps & Admin** | **Remote Debugging (Android/Chrome)**, CPanel, Apache, Domain Mgmt. |
 | **UI/UX Solutions** | MaterializeCSS, Internal SaaS Design for workflow optimization. |
+</div>
 
-</p>
 ### 🔍 Diagnostic Tooling
 <p align="left">
   <img src="https://img.shields.io/badge/Chrome_DevTools-929292?style=flat&logo=google-chrome&logoColor=white" />
