@@ -1,21 +1,4 @@
-# Hi there! I'm Eros 👋
 ![Header](./github-header-banner.png)
-## 🔄 Latest Activity
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ness-e&theme=radical&area=true&hide_border=true" width="100%" />
-</p>
-### 🔍 Diagnostic Tooling
-<p align="left">
-  <img src="https://img.shields.io/badge/Chrome_DevTools-929292?style=flat-square&logo=google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Terminal-000000?style=flat-square&logo=linux&logoColor=white" />
-</p>
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ness-e&color=007ACC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-## Full-Stack Developer | Product Engineer | Systems Architect
 
 <p align="left">
   <img src="https://img.shields.io/badge/Experience-5+%20Years-007ACC?style=flat&logo=codeforces&logoColor=white" />
@@ -31,8 +14,6 @@ Software Engineer specialized in the intersection of **legacy systems and modern
 
 ## 🛠️ Technical Expertise & Domains
 
-A curated view of my technological ecosystem classified by impact:
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,typescript,nextjs,nodejs,nestjs,php,postgres,prisma,tailwind,docker,react" alt="My Tech Stack" />
 </p>
@@ -45,6 +26,14 @@ A curated view of my technological ecosystem classified by impact:
 | **DevOps & Admin** | **Remote Debugging (Android/Chrome)**, CPanel, Apache, Domain Mgmt. |
 | **UI/UX Solutions** | MaterializeCSS, Internal SaaS Design for workflow optimization. |
 
+### 🔍 Diagnostic Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Chrome_DevTools-929292?style=flat-square&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Terminal-000000?style=flat-square&logo=linux&logoColor=white" />
+</p>
+
 ---
 
 ## 🧠 Value Proposition: "The Troubleshooter"
@@ -56,6 +45,13 @@ My focus goes beyond writing code; I optimize complex systems to ensure business
 * **Solutions Engineering:** Designing and deploying internal tools (SaaS) to eliminate operational friction and technical debt.
 * **Technical Leadership:** Mentoring upcoming talent while establishing high-quality engineering standards and best practices.
 * **AI Strategy:** Implementing Large Language Models to automate internal processes and enhance existing product capabilities.
+
+---
+
+## 🔄 Latest Activity
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ness-e&theme=radical&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
@@ -73,4 +69,8 @@ Looking for someone who masters the code of the past to build the AI-driven futu
   <a href="mailto:eros.messy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ness-e&color=007ACC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
