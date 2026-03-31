@@ -1,4 +1,19 @@
 # Hi there! I'm Eros 👋
+![Header](./github-header-banner.png)
+## 🔄 Latest Activity
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ness-e&theme=radical&area=true&hide_border=true" width="100%" />
+</p>
+### 🔍 Diagnostic Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Chrome_DevTools-929292?style=flat-square&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Terminal-000000?style=flat-square&logo=linux&logoColor=white" />
+</p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ness-e&color=007ACC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ## Full-Stack Developer | Product Engineer | Systems Architect
 
