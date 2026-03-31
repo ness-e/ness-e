@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Experience-5+%20Years-007ACC?style=flat&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Specialty-Hybrid%20Systems-FFD700?style=flat&logo=matrix&logoColor=black" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-FF6F00?style=flat&logo=openai&logoColor=white" />
@@ -28,10 +28,10 @@ Software Engineer specialized in the intersection of **legacy systems and modern
 
 ### 🔍 Diagnostic Tooling
 <p align="left">
-  <img src="https://img.shields.io/badge/Chrome_DevTools-929292?style=flat-square&logo=google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Terminal-000000?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome_DevTools-929292?style=flat&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Terminal-000000?style=flat&logo=linux&logoColor=white" />
 </p>
 
 ---
