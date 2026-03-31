@@ -57,10 +57,6 @@ My focus goes beyond writing code; I optimize complex systems to ensure business
 
 ## 🏆 Achievements & Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ness-e&theme=radical&no-frame=true&column=4&margin-w=15" alt="Trophies" />
-</p>
-
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ness-e&theme=radical&area=true&hide_border=true" width="100%" />
 </p>
